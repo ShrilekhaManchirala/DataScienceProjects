@@ -1,5 +1,5 @@
-# 📌 Project Overview
-This project focuses on analyzing retail sales data to uncover meaningful business insights and trends. The analysis was performed using Python in Google Colab, including data cleaning, exploratory data analysis (EDA), and data visualization.
+# 📌 Repository Overview
+This Repository focuses on projects to uncover meaningful business insights and trends. The analysis was performed using Python in Google Colab, including data cleaning, exploratory data analysis (EDA), and data visualization.
 
 ## 📁 Dataset
 
@@ -58,7 +58,6 @@ Included in this repository after preprocessing and data cleaning.
 
 ### Data Analysis
 - Data Cleaning
-- Data Wrangling
 - EDA
 
 ### Data Visualization
